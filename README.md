@@ -22,5 +22,5 @@ namespace Exercises<br>
     }<br>
 }<br>
 
-
-
+Output
+![Screenshot 2022-02-04 050103](https://user-images.githubusercontent.com/98301023/152474793-7e015e41-838d-40f9-a5c4-96c75a0c2661.png)
